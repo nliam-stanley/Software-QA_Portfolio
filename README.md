@@ -21,15 +21,21 @@ This repository showcases my practical QA projects completed during the 3MTT Dar
 
 ## Portfolio Projects
 
-📂 Foundation of Manual QA
+### 📂 [OrangeHRM Exploratory Testing](Projects/OrangeHRM-Exploratory-Testing/)
+Exploratory testing of OrangeHRM Human Resource Management System on mobile browser (Android). Identified and documented 3 defects with varying severity levels, demonstrating mobile web testing and functional testing skills.
+- **Application:** OrangeHRM OS 5.9
+- **Testing Type:** Exploratory Testing
+- **Key Findings:** Invalid credentials persistence, dashboard data inconsistency, action mismatch
 
-📂 Test Execution & Bug Reporting
+### 📂 Foundation of Manual QA
 
-📂 Regression Testing
+### 📂 Test Execution & Bug Reporting
 
-📂 Requirements Traceability Matrix
+### 📂 Regression Testing
 
-📂 SauceDemo Testing
+### 📂 Requirements Traceability Matrix
+
+### 📂 SauceDemo Testing
 
 ## Contact
 
